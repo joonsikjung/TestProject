@@ -7,3 +7,4 @@ next line
 new line
 second line
 new line
+tortoisegit added
